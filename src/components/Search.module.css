@@ -1,0 +1,13 @@
+.search{
+    position: absolute;
+    width: 40rem;
+    top: 3.2rem;
+    right: 4.2rem;
+    z-index: 111111111111;
+}
+.labelSearch{
+    position: absolute;
+    right: 1rem;
+    top: -3rem;
+    color: black;
+}
